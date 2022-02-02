@@ -1,5 +1,2 @@
 loc
 second
-third
-fourth
-fifth
